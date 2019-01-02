@@ -1,5 +1,5 @@
 {
-    "name": "Kub-AT/php-simple-html-dom-parser",
+    "name": "kub-at/php-simple-html-dom-parser",
     "description": "PHP Simple HTML DOM Parser with namespace and PHP 7.3 compatible",
     "keywords": ["html", "dom", "simple"],
     "homepage": "http://simplehtmldom.sourceforge.net/",
