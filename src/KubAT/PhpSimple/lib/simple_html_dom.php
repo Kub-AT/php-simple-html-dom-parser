@@ -1,5 +1,5 @@
 <?php
-namespace KubAT\PhpSimple\HtmlDomParser;
+namespace simple_html_dom;
 
 /**
  * Website: http://sourceforge.net/projects/simplehtmldom/

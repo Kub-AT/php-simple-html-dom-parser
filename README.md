@@ -1,7 +1,7 @@
 php-simple-html-dom-parser
 ==========================
 
-Version 1.7 - PHP 7.3 campatible
+Version 1.7.1 - PHP 7.3 campatible
 Changelog: https://sourceforge.net/projects/simplehtmldom/files/simplehtmldom/1.7/
 
 
@@ -9,7 +9,7 @@ Install
 -------
 
 ```
-composer require Kub-AT/php-simple-html-dom-parser
+composer require kub-at/php-simple-html-dom-parser
 ```
 
 Usage
